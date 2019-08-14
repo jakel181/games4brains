@@ -1,7 +1,7 @@
 .header {
   padding: 10px;
   text-align: center;
-  background: #373840;
+  background: #373840; 
   color: white;
   font-size: 25px;
 }
@@ -13,7 +13,6 @@ footer {
   color: white;
   left: 0;
   bottom: 0;
-  position:fixed;
   width: 100%;
 }
 body {
