@@ -90,3 +90,22 @@ div.desc {
   display: table;
   clear: both;
 }
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
