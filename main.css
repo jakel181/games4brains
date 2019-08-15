@@ -23,6 +23,10 @@ footer {
   padding-left: 50px;
   display: inline-block;
 }
+
+.footerpartlogo {
+  display: inline-block;
+}
 .footer a {
     color: #FFFFFF;
     text-decoration: none;
