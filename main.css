@@ -18,6 +18,7 @@ footer {
 
 footerpart {
   padding: 25px;
+  isplay: inline-block;
 }
 .footer a {
     color: #FFFFFF;
