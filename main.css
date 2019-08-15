@@ -26,6 +26,7 @@ footer {
 
 .footerpartlogo {
   display: inline-block;
+  padding-top: 10px;
 }
 .footer a {
     color: #FFFFFF;
