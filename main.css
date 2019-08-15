@@ -16,7 +16,7 @@ footer {
   width: 100%;
 }
 
-footerpart {
+.footerpart {
   padding: 25px;
   isplay: inline-block;
 }
